@@ -29,14 +29,11 @@ $(document).ready(function(){
         }
     );
 
-    // Set up listeners for each of the buttons.
-
-
-
-
+    // Set up listeners for each of the buttons
+    $("#home").on('click,', noContentAvailable);
     $("#aboutme").on('click', noContentAvailable);
     $("#folio").on('click', noContentAvailable);
-    $("#CV").on('click', noContentAvailable);
+    $("#CV_resume").on('click', noContentAvailable);
 
 });
 
@@ -66,6 +63,7 @@ function noContentAvailable()
     $(elClose).on('click', dismissNote);
 }
 
+function returnToHome(){}
 function aboutme(){}
 function folio(){}
 function CV_resume(){}

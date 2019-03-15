@@ -77,6 +77,13 @@ div.big_banner_image
      background-size: cover;
 
  }
+div.big_banner_content
+{
+    width: 640px;
+    height: 480px;
+    text-align: left;
+
+}
 li {
     font-size: 15pt;
     list-style-type: none;
