@@ -15,9 +15,10 @@
      margin: 0;
  }
  img {
-     display: block;
-     margin-left: auto;
-     margin-right: auto;
+     display: inline-block;
+     margin-left: 15px;
+     margin-right: 15px;
+
 
  }
  .grid {
@@ -67,22 +68,25 @@ div.big_banner {
      -moz-border-radius: 10px;
     }
 
-div.big_banner_image
+/* div.big_banner_image
  {
      width: 640px;
      height: 480px;
      background-image: url(../img/1.png);
      background-position: center;
      background-repeat: no-repeat;
-     background-size: cover;
+   background-size: cover;
 
- }
-div.big_banner_content
-{
+} */
+ div.big_banner_content
+{    font-family: 'Montserrat', sans-serif;
     width: 640px;
     height: 480px;
     text-align: left;
-
+    background-image: url(../img/1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 li {
     font-size: 15pt;
@@ -102,6 +106,26 @@ li {
     background-repeat: no-repeat;
     padding-right: 36px;
 }
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+div.aboutme_content
+div.CV_content
+{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+ div.media_container
+ {
+
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 400;
+     text-align: center;
+ }
+
+
 div.links_left
 {
     position: absolute;
@@ -118,3 +142,47 @@ div.links_right
     width: 250px;
     cursor: pointer;
 }
+ /****** MAIN PICTURE **********/
+ #photo-viewer {
+     position: relative;
+     height: 300px;
+     overflow: hidden;}
+
+#photo-viewer.is-loading:after {
+     content: url('../img/load.gif');
+     position: absolute;
+     top: 0;
+     left: 0;}
+
+#photo-viewer img {
+     position: absolute;
+     max-width: 100%;
+     max-height: 100%;
+     top: 50%;
+     left: 50%;}
+
+
+ /********** THUMBNAILS **********/
+ #thumbnails {
+     margin: 5px 5px 0 0;
+     height: 100px;}
+
+ a.active {
+     opacity: 0.3;}
+
+
+ /********** PARTS OF PAGES **********/
+ .gallery{
+     width: 400px;
+     padding: 20px;
+     float: left;}
+
+ .description {
+     width: 180px;
+     float: right;
+     padding: 20px 20px 0 0;
+     font-size: 85%;
+     line-height: 1em;}
+
+ .standfirst {
+     margin: 0;}

@@ -1,53 +1,21 @@
 [
   {
-    "aboutme":
-      {
-        "blurb": "A developer, an artist, with an eye for anything. Ed D. Chu carries a perspective into your online solution.",
-        "history": "With more than fifteen years working in the background of the entertainment industry - specifically in digital media production, Ed D. Chu can give you a look into the finer details of Hollywood and its inner machinations. He has worked on titles like Star Wars prequel and original trilogies and the Alien Anthology.",
-        "personal": "He currently awaits an opportunity for a new beginning. Two dogs keep him company."
-      },
-
-        "resume":
-      {
-        "title": "Ed D. Chu",
-        "linkedinprofile": "http://www.linkedin.com/in/echu916",
-        "email": "echu916 at Gmail",
-        "objective": "Seeking a full-time position in software development, leveraging my experience in digital video.",
-        "summary": "Technology professional with a dominant and long-time background in the entertainment industry. In-depth knowledge of video and film technologies and its application in today&#39;s dynamic world of visual and interactive entertainment.",
-
-        "workhistory":
-        {
-          "workhistory1": "August 2004 - July 2018",
-          "work_position": "engineer, Deluxe Media Inc.",
-          "work_location": "Burbank, CA",
-          "work_description" : "<ul><li>Programmed and authored movie and television titles in DVD, Blu-ray Disc, and 4K (UHD) Blu-ray format</li></ul>"
-        },
-        "achievements":
-        {
-          "award1": "Stellar Service Award",
-          "award_year": "2010",
-          "award_description": "TBD"
-        }
-
-
-      },
-
-      "media":
-        {
-          "photos":
-
-                  [
-                    "img/0.png",
-                    "img/1.png",
-                    "img/2.png",
-                    "img/3.png",
-                    "img/0-small.jpg",
-                    "img/1-small.jpg",
-                    "img/2-small.jpg",
-                    "img/3-small.jpg"
-                  ]
-
-        }
+    "aboutme": {
+      "blurb": "A developer, an artist, with an eye for anything. Ed D. Chu carries a perspective into your online solution.",
+      "history": "With more than fifteen years working in the background of the entertainment industry - specifically in digital media production, Ed D. Chu can give you a look into the finer details of Hollywood and its inner machinations. He has worked on titles like Star Wars prequel and original trilogies and the Alien Anthology.",
+      "personal": "He currently awaits an opportunity for a new beginning as a mobile / online web developer. Two dogs keep him company."
+    }
+  },
+  {
+    "resume": {
+      "email": "echu916 at Gmail",
+      "linkedin": "http://www.linkedin.com/in/echu916",
+      "objective": "Seeking a full-time position in software development, leveraging my experience in digital video.",
+      "resumesummary": "Technology professional with a dominant and long-time background in the entertainment industry. In-depth knowledge of video and film technologies and its application in today&#39;s dynamic world of visual and interactive entertainment.",
+      "achievements": "Stellar Service Award in summer 2009 for work on Gladiator Blu-ray release<br></br>Great Performance Award in summer 2010 for work on Alien Anthology Blu-ray release",
+      "workhistory": {
+        "work_timeline": "August 2004 - July 2018 - engineer, Deluxe Media Inc., Burbank, CA - Programmed and authored movie and television titles in Blu-ray Disc, and 4K Blu-ray format<br></br>Delivered movie titles for video-on-demand distribution to iTunes.<br></br>Please visit my LinkedIn profile for detailed information."
       }
+    }}
 ]
 

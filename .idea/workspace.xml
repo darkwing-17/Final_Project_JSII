@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0032c6cb-42f6-4e12-98b9-0b8a7ecd0961" name="Default Changelist" comment="This is the first iteration of the final project with many files changed and added.">
-      <change afterPath="$PROJECT_DIR$/content.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/index_fullyupdated.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea 2/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content.json" beforeDir="false" afterPath="$PROJECT_DIR$/content.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylesmain.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylesmain.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/background2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_folio/0-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_folio/0-thumb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img_folio/0-thumb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_folio/1-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_folio/1-thumb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img_folio/1-thumb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_folio/2-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_folio/2-thumb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img_folio/2-thumb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_folio/3-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_folio/3-thumb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img_folio/3-thumb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_folio/4-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_folio/4-thumb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img_folio/4-thumb.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index_fullyupdated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-ui-1.12.1.custom/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-ui-1.12.1.custom/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,58 +38,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/normalize.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="136" column="38" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/stylesmain.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1665">
-              <caret line="111" column="1" lean-forward="true" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/index_fullyupdated.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="205" column="20" lean-forward="true" selection-start-line="205" selection-start-column="20" selection-end-line="205" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aboutme.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,10 +59,13 @@
       <find>p</find>
       <find>var</find>
       <find>#CV</find>
+      <find>big_banner_image</find>
+      <find>img</find>
     </findStrings>
     <replaceStrings>
       <replace>let</replace>
       <replace>#CV_resume</replace>
+      <replace>big_banner_content</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -105,40 +76,35 @@
       <list>
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/content.json" />
-        <option value="$PROJECT_DIR$/js/index.js" />
-        <option value="$PROJECT_DIR$/js/index.js" />
-        <option value="$PROJECT_DIR$/css/stylesmain.css" />
-        <option value="$PROJECT_DIR$/css/stylesmain.css" />
         <option value="$PROJECT_DIR$/js/index_fullyupdated.js" />
+        <option value="$PROJECT_DIR$/media.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/content.json" />
+        <option value="$PROJECT_DIR$/css/stylesmain.css" />
+        <option value="$PROJECT_DIR$/css/stylesmain.css" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/js/index.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="423" />
-    <option name="y" value="259" />
-    <option name="width" value="1302" />
-    <option name="height" value="888" />
+    <option name="x" value="41" />
+    <option name="y" value="23" />
+    <option name="width" value="1698" />
+    <option name="height" value="1391" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Final_Project_JSII" type="b2602c69:ProjectViewProjectNode" />
               <item name="Final_Project_JSII" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final_Project_JSII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Final_Project_JSII" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea 2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Final_Project_JSII" type="b2602c69:ProjectViewProjectNode" />
@@ -157,12 +123,14 @@
             </path>
             <path>
               <item name="Final_Project_JSII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Final_Project_JSII" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,18 +139,20 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/js" />
-      <recent name="$PROJECT_DIR$/css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/img_folio" />
       <recent name="$APPLICATION_CONFIG_DIR$/scratches" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -215,21 +185,39 @@
       <workItem from="1552451843158" duration="31000" />
       <workItem from="1552451877743" duration="6000" />
       <workItem from="1552591824332" duration="1720000" />
-      <workItem from="1552601764183" duration="9997000" />
+      <workItem from="1552601764183" duration="12422000" />
+      <workItem from="1552688998086" duration="10623000" />
+      <workItem from="1552778142742" duration="5000" />
+      <workItem from="1552944544063" duration="1583000" />
+      <workItem from="1552952563650" duration="11294000" />
+      <workItem from="1552965673550" duration="14000" />
     </task>
+    <task id="LOCAL-00001" summary="This is the first iteration of the final project with many files changed and added.">
+      <created>1552629593548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552629593549</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is the first iteration of the final project with many files changed and added.">
+      <created>1552629703923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552629703923</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26729000" />
+    <option name="totallyTimeSpent" value="52675000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="423" y="259" width="1302" height="888" extended-state="0" />
-    <editor active="true" />
+    <frame x="32" y="23" width="1698" height="1391" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.264637" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19379845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32914573" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -242,6 +230,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329661" />
       <window_info anchor="bottom" id="Thumbnails" order="11" visible="true" weight="0.3294702" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.14102565" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -264,76 +253,78 @@
     <entry file="file://$PROJECT_DIR$/js/plugins.js" />
     <entry file="file://$PROJECT_DIR$/../Assignment3_HTMLCSS/edchu.html" />
     <entry file="file://$PROJECT_DIR$/../Assignment3_HTMLCSS/css/index2.css" />
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="136" column="38" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img_folio/0-large.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img_folio/0-large.jpg" />
     <entry file="file://$PROJECT_DIR$/css/jquery-ui.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-ui-1.12.1.custom/external/jquery/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme.html" />
     <entry file="file://$PROJECT_DIR$/js/jquery-ui.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7166">
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery-ui-1.12.1.custom/external/jquery/jquery.js">
+    <entry file="file://$PROJECT_DIR$/.idea 2/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/js/jquery-gallery-master/src/data.json" />
+    <entry file="file://$PROJECT_DIR$/js/jquery-gallery-master/package.json" />
+    <entry file="file://$PROJECT_DIR$/js/jquery-gallery-master/src/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery-gallery-master/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/content3.json" />
+    <entry file="file://$PROJECT_DIR$/../../XCode workspace/Duckett textbook - JavaScript II course codebase reference/c11/css/photo-viewer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="77" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV.html" />
+    <entry file="file://$PROJECT_DIR$/img/background2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media.html" />
+    <entry file="file://$PROJECT_DIR$/content.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index_old.js" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        <state relative-caret-position="181">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/stylesmain.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1665">
-          <caret line="111" column="1" lean-forward="true" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
+        <state relative-caret-position="869">
+          <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content.json">
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/index_fullyupdated.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="205" column="20" lean-forward="true" selection-start-line="205" selection-start-column="20" selection-end-line="205" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="-1621">
+          <caret line="125" column="18" lean-forward="true" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
         </state>
       </provider>
     </entry>
