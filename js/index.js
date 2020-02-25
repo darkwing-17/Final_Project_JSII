@@ -380,7 +380,6 @@ const CV_resume = () =>
 
     // 5. Display content
     let resumeString =    "<div class=\"CV_content\">" +
-
                           "<h3>Contact via email</h3>" +
                           "<p>" + resumeEmail + "</p>" +
                             "<h3>LinkedIn</h3>" +
@@ -432,7 +431,7 @@ const blog = () =>
     let blogLink = contentData[2].blog.blog_link;
     let blogDescribe = contentData[2].blog.blog_description;
     // 5. Display content
-    let blogString = "<div class=\"blog_content\>" + 
+    let blogString = "<div class=\"blog_content\">" + 
                      "<h3>Link opens in new window</h3>"   +
                      "<p>" + blogDescribe + "</p>" +
                      "<p>" + "<a href=\"" + blogLink + "\" target=\"_blank\">" + blogLink + "</a>" + "</p>" +
