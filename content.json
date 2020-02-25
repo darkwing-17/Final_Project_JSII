@@ -24,7 +24,8 @@
 
   {
     "blog": {
-      "blog_link": "https://edchu.dev/blog"
+      "blog_link": "https://edchu.dev/blog",
+      "blog_description": "My own blog"
     }
 
   }
