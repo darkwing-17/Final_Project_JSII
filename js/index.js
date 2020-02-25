@@ -431,9 +431,10 @@ const blog = () =>
     // 4. Format the content
     let blogLink = contentData[2].blog.blog_link;
     // 5. Display content
-    let blogString = "<div class=\"blog\>" +
+    let blogString = "<div class=\"blog\>" + 
+                     "<h3>Link opens in new window</h3>"   +
                      "<p>" + "<a href=\"" + blogLink + "\" target=\"_blank\">" + blogLink + "</a>" + "</p>" +
-                    "<p>" + "Link opens in new window" + "</p>"  + "</div>";
+                     "</div>";
     $('.big_banner_content').append(blogString);
     
     $(".blog").accordion({
