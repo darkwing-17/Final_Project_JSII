@@ -164,7 +164,7 @@ const resetContentWindow = () =>
     $(".aboutme_content").html('');
     $(".media_container").html('');
     $(".CV_content").html('');
-    $(".blog").html('');
+    $(".blog_content").html('');
     clearInterval(homeWindowsetIntervalID);
 
 };
@@ -431,13 +431,14 @@ const blog = () =>
     // 4. Format the content
     let blogLink = contentData[2].blog.blog_link;
     // 5. Display content
-    let blogString = "<div class=\"blog\>" + 
+    let blogString = "<div class=\"blog_content\>" + 
                      "<h3>Link opens in new window</h3>"   +
                      "<p>" + "<a href=\"" + blogLink + "\" target=\"_blank\">" + blogLink + "</a>" + "</p>" +
                      "</div>";
     $('.big_banner_content').append(blogString);
-    
-    $(".blog").accordion({
+        
+    // 6 with JQueryUI - Format the content into an accordion widget
+    $(".blog_content").accordion({
         collapsible: true,
         autoHeight: false,
         heightStyle: "content",
