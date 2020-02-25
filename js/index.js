@@ -431,7 +431,8 @@ const blog = () =>
     // 4. Format the content
     let blogLink = contentData[2].blog.blog_link;
     // 5. Display content
-    let blogString = "<div class=\"blog\>" + "<p>" + "<a href=\"" + blogLink + "\" target=\"_blank\">" + blogLink + "</a>" + "</p>" +
+    let blogString = "<div class=\"blog\>" +
+                     "<p>" + "<a href=\"" + blogLink + "\" target=\"_blank\">" + blogLink + "</a>" + "</p>" +
                     "<p>" + "Link opens in new window" + "</p>"  + "</div>";
     $('.big_banner_content').append(blogString);
 };
