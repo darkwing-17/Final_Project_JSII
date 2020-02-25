@@ -433,7 +433,6 @@ const blog = () =>
     // 5. Display content
     let blogString = "<div class=\"blog_content\">" + 
                      "<h3>Link opens in new window</h3>"   +
-                     "<p>" + blogDescribe + "</p>" +
                      "<p>" + "<a href=\"" + blogLink + "\" target=\"_blank\">" + blogLink + "</a>" + "</p>" +
                      "</div>";
     $('.big_banner_content').append(blogString);
