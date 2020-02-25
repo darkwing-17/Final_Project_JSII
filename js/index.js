@@ -47,6 +47,7 @@ $(document).ready(function(){
     $("#aboutme").on('click', aboutme);
     $("#folio").on('click', folio);
     $("#CV_resume").on('click', CV_resume);
+    $("#blog").on('click', blog);
 
 });
 
@@ -143,7 +144,9 @@ const resetButtonFocus = () =>
                  .css('border-top', '1px solid orange')
                  .css('border-bottom', '1px solid orange');
 
-
+    $("#blog").css('background-color', 'orange')
+                 .css('border-top', '1px solid orange')
+                 .css('border-bottom', '1px solid orange');
 
 };
 
@@ -161,6 +164,7 @@ const resetContentWindow = () =>
     $(".aboutme_content").html('');
     $(".media_container").html('');
     $(".CV_content").html('');
+    $(".blog").html('');
     clearInterval(homeWindowsetIntervalID);
 
 };
@@ -335,6 +339,12 @@ const folio = () => {
     $('.thumbnail').eq(0).click();                // Simulate click on first thumb
 
 };
+
+
+
+
+
+
 const CV_resume = () =>
 {
 
@@ -392,5 +402,36 @@ const CV_resume = () =>
         heightStyle: "content",
     }).animate({
         opacity: 1
-    });
+    }
+    );
+};
+const blog = () =>
+{
+
+    // Blog page
+    // 1. Erase previous content first and reset button focus
+    resetButtonFocus();
+    resetContentWindow();
+    clearInterval(homeWindowsetIntervalID);
+
+    // 2. Bring background photo in and keep it there
+
+        $('.big_banner_content').css('background-image', 'url(img/background2.png)')
+            .animate({
+            opacity: 0.95,
+            duration: 2000
+        });
+
+
+    // 3. Change button's color to show it is active
+    $("#blog").css('background-color', 'yellow')
+                    .css('border-top', '1px solid yellow')
+                     .css('border-bottom', '1px solid yellow');
+
+    // 4. Format the content
+    let blogLink = contentData[2].blog.blog_link;
+    // 5. Display content
+    let blogString = "<div class=\"blog\>" + "<p>" + "<a href=\"" + blogLink + "\" target=\"_blank\">" + blogLink + "</a>" + "</p>" +
+                    "<p>" + "Link opens in new window" + "</p>"  + "</div>";
+    $('.big_banner_content').append(blogString);
 };

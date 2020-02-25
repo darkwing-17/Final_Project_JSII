@@ -6,6 +6,9 @@
       "personal": "He currently awaits an opportunity for a new beginning as a mobile / online web developer. Two dogs keep him company."
     }
   },
+  
+
+
   {
     "resume": {
       "email": "echu916 at Gmail",
@@ -16,6 +19,14 @@
       "workhistory": {
         "work_timeline": "August 2004 - July 2018 - engineer, Deluxe Media Inc., Burbank, CA - Programmed and authored movie and television titles in Blu-ray Disc, and 4K Blu-ray format<br></br>Delivered movie titles for video-on-demand distribution to iTunes.<br></br>Please visit my LinkedIn profile for detailed information."
       }
-    }}
+    }
+  },
+
+  {
+    "blog": {
+      "blog_link": "https://edchu.dev/blog"
+    }
+
+  }
 ]
 
