@@ -435,4 +435,13 @@ const blog = () =>
                      "<p>" + "<a href=\"" + blogLink + "\" target=\"_blank\">" + blogLink + "</a>" + "</p>" +
                     "<p>" + "Link opens in new window" + "</p>"  + "</div>";
     $('.big_banner_content').append(blogString);
+    
+    $(".blog").accordion({
+        collapsible: true,
+        autoHeight: false,
+        heightStyle: "content",
+    }).animate({
+        opacity: 1
+    }
+    );
 };
